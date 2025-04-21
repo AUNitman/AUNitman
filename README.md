@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Для связи со мной:
-* ![Telegram](https://t.me/Amirhan_ul)
-* ![Email](auleev2001@yandex.ru)
+* Telegram: https://t.me/Amirhan_ul
+* Email: auleev2001@yandex.ru
 
 
 Мои проекты:
