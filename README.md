@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 Для связи со мной:
-- ![Telegram](https://t.me/Amirhan_ul)
-- ![Email](auleev2001@yandex.ru)
+* ![Telegram](https://t.me/Amirhan_ul)
+* ![Email](auleev2001@yandex.ru)
+
+
 Мои проекты:
 - ![Модель для предсказания цен на криптовалюты](https://github.com/AUNitman/G-Research-Crypto-Forecasting)
 - ![Модель для предсказание цен на недвижимость](https://github.com/AUNitman/First-task-ML)
