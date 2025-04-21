@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Мои проекты:
+- ![Модель для предсказания цен на криптовалюты](https://github.com/AUNitman/G-Research-Crypto-Forecasting)
+- ![Модель для предсказание цен на недвижимость](https://github.com/AUNitman/First-task-ML)
+- ![Предсказание успеваемости при геймификации](https://github.com/AUNitman/Predict-Student-Performance-from-Game-Pla)
+- ![Проект для генерации аннотаций к видео](https://github.com/AUNitman/Generate_annotations_videos)
+
 Карточка профиля: 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AUNitman&theme=solarized_dark)
@@ -21,7 +28,3 @@ Here are some ideas to get you started:
 Статистика профиля:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AUNitman&theme=solarized_dark)
-
-Данные по коммитам за сутки:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AUNitman&theme=solarized_dark)
